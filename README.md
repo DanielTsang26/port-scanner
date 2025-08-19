@@ -1,3 +1,4 @@
+# PortHound
 
 **PortHound** is a lightweight Python-based network reconnaissance tool for scanning host availability, scanning ports, and OS detection. It provides a CLI interface with rich output and optional summary views using the `rich` library.
 
